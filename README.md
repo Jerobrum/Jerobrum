@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### ⚡ Fun fact: Estoy creando mi primer repo
+Mi nombre es Jeronimo Brum, actualmente estoy estudiando
+ingeniera en sistemas en la ORT y este es mi primer
+repo!
 
 <!--
 **Jerobrum/Jerobrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
